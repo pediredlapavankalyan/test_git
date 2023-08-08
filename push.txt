@@ -1,0 +1,6 @@
+Here in this you will know how to push into github
+1.stage the files which u want to commit by using git add file name or git add --all to add all files
+2.after staging we need to commit the changes to commit git commit -m "commit messate" 
+3.after commiting make sure that ur in the right remote origin if u want to add remote origin use git add remote origin url
+4. after adding remote origin to push the changes use git push -u origin branch_name
+
